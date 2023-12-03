@@ -29,16 +29,7 @@ This project, "Age Detection through Face Recognition using Convolutional Neural
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone <repository-url>
-    cd age-detection-project
-    ```
-
 2. **Install the required dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 3. **Run the Python script for model training and evaluation.**
 
@@ -52,7 +43,7 @@ This project, "Age Detection through Face Recognition using Convolutional Neural
 
 ## Video Demonstration
 
-For a detailed explanation and demonstration of the application, please watch our [YouTube video](<insert-link-here>).
+For a detailed explanation and demonstration of the application, please watch our video on YouTube. Link: https://youtu.be/7J3Enp0X64E 
 
 ## Credits
 
